@@ -2027,6 +2027,7 @@ MonoBehaviour:
   pickUpItemLayers:
     serializedVersion: 2
     m_Bits: 1024
+  pickUpRange: 2.5
 --- !u!4 &150743250594535782
 Transform:
   m_ObjectHideFlags: 0
