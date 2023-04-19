@@ -2023,6 +2023,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemHoldAnchor: {fileID: 7224233492730437624}
+  cameraRoot: {fileID: 8338988565591873055}
+  pickUpItemLayers:
+    serializedVersion: 2
+    m_Bits: 1024
 --- !u!4 &150743250594535782
 Transform:
   m_ObjectHideFlags: 0
